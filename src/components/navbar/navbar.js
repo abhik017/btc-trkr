@@ -162,7 +162,7 @@ export default function Navbar() {
   );
 
   return (
-    <div className={classes.grow} style={{width: '83%', float: 'right'}}>
+    <div className={classes.grow} style={{width: '80%', float: 'right'}}>
       <AppBar position="static" style={{backgroundColor: '#2F4050'}}>
         <Toolbar >
           <IconButton

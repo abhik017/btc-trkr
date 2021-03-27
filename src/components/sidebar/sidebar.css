@@ -1,6 +1,6 @@
 .Sidebar {
     height: 100%;
-    width: 17%;
+    width: 20%;
     background-color: #2F4050;
     float: left;
 }
@@ -39,8 +39,8 @@
     flex: 70%;
 }
 .brand-logo {
-    width: 17%;
-    margin-left: 6.8%;
+    width: 20%;
+    margin-left: 7.8%;
 }
 .brand-logo img {
     /* display: inline-block; */

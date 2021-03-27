@@ -5,11 +5,14 @@
     top: 13%;
     bottom: 10%;
     height: 500px !important; */
-    width:83%;
+    width:80%;
+    height: fit-content;
     float: right;
-    /* position: relative;
-    height:40vh;
-    width:calc(100%-230px);
-    margin-left: 18%; */
+    position: relative;
+    /* margin-left: 18%; */
     
 }
+.chartjs-render-monitor {
+    height: fit-content !important;
+    /* width: max-content !important; */
+  }
