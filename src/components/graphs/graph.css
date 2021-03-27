@@ -1,0 +1,15 @@
+.chart {
+    /* width: 80%;
+    position: absolute;
+    left: 18%;
+    top: 13%;
+    bottom: 10%;
+    height: 500px !important; */
+    width:83%;
+    float: right;
+    /* position: relative;
+    height:40vh;
+    width:calc(100%-230px);
+    margin-left: 18%; */
+    
+}
